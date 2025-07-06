@@ -87,7 +87,7 @@ Each endpoint is backed by a Lambda function and secured via IAM and optional Co
 
 For a detailed walkthrough of this migration, including step-by-step explanations, code snippets, and architectural insights, check out my Medium blog post:
 
-👉 [Terraforming the Cloud: A Modular Approach to AWS Application Infrastructure]([https://your-medium-link-here.com](https://medium.com/@mohamed.aymn.abomosallam/terraforming-the-cloud-a-modular-approach-to-aws-application-infrastructure-de1b457bc020))
+👉 [Terraforming the Cloud: A Modular Approach to AWS Application Infrastructure](https://medium.com/@mohamed.aymn.abomosallam/terraforming-the-cloud-a-modular-approach-to-aws-application-infrastructure-de1b457bc020)
 
 ---
 
